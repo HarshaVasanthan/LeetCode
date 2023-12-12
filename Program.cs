@@ -45,6 +45,7 @@
                 {
                     node = list2;
                 }
+                //change 2
                 else if (list2 == null)
                 {
                     node = list1;
