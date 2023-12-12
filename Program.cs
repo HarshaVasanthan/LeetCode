@@ -40,6 +40,7 @@
                 {
                     return node;
                 }
+                //change 1
                 else if (list1 == null)
                 {
                     node = list2;
