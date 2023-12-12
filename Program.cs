@@ -31,6 +31,7 @@
             public ListNode MergeTwoLists(ListNode list1, ListNode list2)
             {
                 ListNode node = null;
+                //hello testing
                 if (list1 == null && list2 == null)
                 {
                     return node;
