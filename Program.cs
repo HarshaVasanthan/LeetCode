@@ -26,6 +26,11 @@
                 this.next = next;
             }
         }
+
+        public void Main1()
+        {
+
+        }
         public class Solution
         {
             public ListNode MergeTwoLists(ListNode list1, ListNode list2)
