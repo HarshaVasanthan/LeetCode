@@ -1,4 +1,4 @@
-﻿namespace LeetCode
+﻿namespace LeetCode1
 {
     internal class Program
     {
@@ -27,10 +27,6 @@
             }
         }
 
-        public void Main1()
-        {
-
-        }
         public class Solution
         {
             public ListNode MergeTwoLists(ListNode list1, ListNode list2)

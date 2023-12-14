@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation/leetcode.metadata.v6.1
+/.vs/ProjectEvaluation/leetcode.projects.v6.1
+*.vsidx
+/.vs/LeetCode/v17/.suo
+/.vs/LeetCode/FileContentIndex/aae63765-b595-448b-8fa4-117072591941.vsidx
